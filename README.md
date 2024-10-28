@@ -9,6 +9,10 @@
 
 # Communicate using Markdown
 
+# Adding an H1 Header
+
+## Adding an H2 Header
+
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
